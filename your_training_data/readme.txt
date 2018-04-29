@@ -1,0 +1,1 @@
+label_old.txt is downloaded from http://www.lara.prd.fr/benchmarks/trafficlightsrecognition
