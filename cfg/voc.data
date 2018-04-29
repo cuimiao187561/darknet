@@ -1,6 +1,6 @@
-classes= 20
-train  = /home/pjreddie/data/voc/train.txt
-valid  = /home/pjreddie/data/voc/2007_test.txt
-names = data/voc.names
-backup = backup
+classes= 4 #20
+train  = /home/alanmao/桌面/darknet/darknet/scripts/VOCdevkit/VOC2018/ImageSets/Main/2018_train.txt
+valid  = /home/alanmao/桌面/darknet/darknet/scripts/VOCdevkit/VOC2018/ImageSets/Main/2018_test.txt
+names = data/voc_2018.names
+backup = /home/alanmao/桌面/yolov3_weights_backup
 

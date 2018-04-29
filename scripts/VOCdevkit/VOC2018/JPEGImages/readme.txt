@@ -1,0 +1,1 @@
+you put your pictures here in '000000.jpg' format.
