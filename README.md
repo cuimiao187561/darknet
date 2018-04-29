@@ -9,8 +9,8 @@ For questions or issues please use the [Google Group](https://groups.google.com/
 
 ------
 
-### Using yolov3 to detect traffic light.
-##### some changes
+## Using yolov3 to detect traffic light.
+### some changes
 - Modify
 	- Makefile: GPU=0 -> GPU=1
 	- cfg/voc.data
